@@ -1,0 +1,4 @@
+nest g controller items
+npm run start:dev
+nest g service items
+nest generate modules users
